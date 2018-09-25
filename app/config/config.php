@@ -1,9 +1,9 @@
 <?php 
     // DB Params
-    define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASSWORD', '');
-    define('DB_NAME', 'shareposts');
+    define('DB_HOST', '__YOUR-HOST-NAME__');
+    define('DB_USER', '__YOUR-DB-USERNAME__');
+    define('DB_PASSWORD', '__YOUR-DB-PASSWORD__');
+    define('DB_NAME', '__YOUR-DB-NAME__');
     
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
