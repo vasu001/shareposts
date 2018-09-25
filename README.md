@@ -11,7 +11,7 @@ A small PHP OOP App Blog which lets you have CRUD functionality.
 4. Go to public/db and import the db file to phpmyadmin directly. No need to create new database.
 =======
 >>>>>>> cee88f0d4357d166b5b7fc70c52cbe12736aa97c
-4. Go to http://localhost/shareposts/ to run the app.
+5. Go to http://localhost/shareposts/ to run the app.
 
 ## Note
 
